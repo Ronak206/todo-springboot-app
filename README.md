@@ -17,7 +17,7 @@ A simple and clean **To-Do List** application built with **Spring Boot**, **Thym
 
 ## 🚀 Tech Stack
 
-- ☕ Java 21+
+- ☕ Java 17+
 - ⚙️ Spring Boot
 - 💾 Spring Data JPA
 - 🖼️ Thymeleaf
